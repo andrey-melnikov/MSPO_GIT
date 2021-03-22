@@ -19,4 +19,8 @@ public class F implements E {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
