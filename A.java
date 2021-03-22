@@ -19,8 +19,4 @@ public class A implements C {
     public byte oo() {
         return 3;
     }
-
-    public void bb() {
-        System.out.println(42);
-    }
 }
