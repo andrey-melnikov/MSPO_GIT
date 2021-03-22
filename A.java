@@ -23,4 +23,8 @@ public class A implements C {
     public void bb() {
         System.out.println(42);
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

@@ -23,4 +23,8 @@ public class F implements E {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
