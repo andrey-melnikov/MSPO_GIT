@@ -31,4 +31,8 @@ public class A implements C {
     public float ff() {
         return 0;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }

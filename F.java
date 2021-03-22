@@ -31,4 +31,8 @@ public class F implements E {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public void ab() {
+        return;
+    }
 }
