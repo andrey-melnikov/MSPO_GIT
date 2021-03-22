@@ -27,4 +27,8 @@ public class A implements C {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
