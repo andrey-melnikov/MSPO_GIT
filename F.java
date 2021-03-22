@@ -39,4 +39,8 @@ public class F implements E {
     public String kk() {
         return "Hello world";
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
