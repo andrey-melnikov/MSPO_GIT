@@ -35,4 +35,8 @@ public class F implements E {
     public void ab() {
         return;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
