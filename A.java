@@ -1,4 +1,4 @@
-public class A implements C {
+public class A extends null implements C {
 
     private String c = "test";
 
@@ -26,5 +26,17 @@ public class A implements C {
 
     public Object gg() {
         return return getClass().getClassLoader();
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
     }
 }

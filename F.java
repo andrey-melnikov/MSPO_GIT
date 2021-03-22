@@ -1,4 +1,4 @@
-public class F implements E {
+public class F extends null implements E {
 
     private String j = "hello";
 
@@ -26,5 +26,17 @@ public class F implements E {
 
     public float ff() {
         return 3.14;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public String kk() {
+        return "Hello world";
     }
 }
