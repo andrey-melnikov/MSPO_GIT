@@ -20,23 +20,35 @@ public class A extends null implements C {
         return 3;
     }
 
-    public void bb() {
-        System.out.println(42);
-    }
-
     public Object gg() {
         return return getClass().getClassLoader();
     }
 
     public float ff() {
-        return 0;
+        return 3.14;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public void bb() {
+        System.out.println(42);
     }
 
     public int ae() {
         return java.lang.Math.abs(-7);
     }
 
-    public java.util.List<String> jj() {
-        return new java.util.LinkedList<String>();
+    public int af() {
+        return -1;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }
