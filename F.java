@@ -27,4 +27,8 @@ public class F implements E {
     public float ff() {
         return 3.14;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
